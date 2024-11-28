@@ -1,0 +1,19 @@
+{
+    "name": "hurican/filecontroller",
+    "description": "You can Control JSON INI file",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Hurican\\Filecontroller\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "martinkovacs22",
+            "email": "79226892+martinkovacs22@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
