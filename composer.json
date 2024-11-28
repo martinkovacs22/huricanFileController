@@ -5,7 +5,9 @@
     "license": "proprietary",
     "autoload": {
         "psr-4": {
-            "Hurican\\Filecontroller\\": "src/"
+            "Hurican\\Filecontroller\\": "src/",
+            "Ini\\":"src/Ini",
+            "Json\\":"src/Json"
         }
     },
     "authors": [
